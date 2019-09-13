@@ -11,6 +11,8 @@ The package contains the following files:
 - greedy_match.m: greedy matching algorithm to obtain one-to-one mappings
 - toy_demo.m: the demo code for users to play with
 - CAGrQc.mat: the dataset of CAGrQc networks
+- graclus1.2(linux): Compiled graclus algorithm for Linux users
+- graclus1.2(windows): Compiled graclus algorithm for Windows users
 
 ## Usage
 Please refer to the demo code file toy_demo.m and the descriptions in each file for the detailed information. 
